@@ -1,4 +1,7 @@
 //Brute force
+#include<bits/stdc++.h>
+using namespace std;
+
 void makeZero(vector<vector<int>>& arr,int row,int col,int n,int m){
     int p = row-1;
     while(p>=0){
@@ -83,3 +86,8 @@ void setZeros(vector<vector<int>> &arr)
             }
         }
     }
+
+
+int main(){
+
+}

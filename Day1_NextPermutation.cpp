@@ -1,5 +1,6 @@
 //Vedio -> https://youtu.be/6qXO72FkqwM
-
+#include<bits/stdc++.h>
+using namespace std;
 vector<int> nextPermutation(vector<int> &arr, int n)
 {
     //  Write your code here.
