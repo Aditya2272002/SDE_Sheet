@@ -1,0 +1,50 @@
+10th July 2022 STARTING
+1. BT implementation
+2. Traversal 
+   DFS :- Inorder, Preorder, Postorder
+   BFS :- Levelorder
+3. Levelorder on Nry tree or we want elements of each level only in Queue
+4. Questions:-
+   Reverse Levelorder  
+   Height of BT (Maximum depth of BT) -> Use recursion 😎
+   Minimum depth of BT -> Use recursion 😎
+   Invert a BT or Mirror of BT
+   Diameter of BT 🔖IMPO
+   Left,Right view of Tree -> LevelOrder Q.3
+   Bottom,Top view of tree
+   ZigZag Traversal
+   Types of BT [MEDIUM]
+
+
+
+11th July 2022
+Other videos Raveet Sir Over
+
+12th July
+LeetCode
+
+13th July 
+LeetCode + Striver
+
+13th July 
+LeetCode + Striver
+
+14th July 
+LeetCode + Striver
+
+15th July
+LeetCode + Striver
+
+16th July 2022 ENDING  
+Revision + GFG CONTEST on Tree
+
+
+
+
+
+
+
+
+
+
+ 
