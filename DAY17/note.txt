@@ -11,9 +11,10 @@
    Invert a BT or Mirror of BT
    Diameter of BT 🔖IMPO
    Left,Right view of Tree -> LevelOrder Q.3
-   Bottom,Top view of tree
-   ZigZag Traversal
-   Types of BT [MEDIUM]
+   Bottom,Top view of tree -> Consider a number Line (map + Queue)
+   ZigZag Traversal -> Two stack stackOdd and stackEven
+   Types of BT [MEDIUM]  
+   Diagonal Traversal Tree
 
 
 
