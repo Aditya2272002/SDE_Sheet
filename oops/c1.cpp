@@ -46,9 +46,7 @@ int main(){
    Vehical::price = 900; // Static variables must be called class Name only
    audi.price = 987; // Not Preffered 
 
-   Vehical::getEngineCode(); // Static variables must be called class Name only
+   Vehical::getEngineCode(); // Static functions must be called class Name only
    audi.getEngineCode(); // Not Preffered 
-
-
 
 }

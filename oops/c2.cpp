@@ -2,6 +2,11 @@
 Inheritance and How to change Inherited class Access Modeifiers.
 Overriding
 How to Access parent function from child [super keyword in kotlin]
+
+
+
+ -> Virtual tells compiler that this function can be overriden in it's child class
+
 */
 
 #include<bits/stdc++.h>
@@ -36,7 +41,7 @@ class Animal{
 class Human1: public Animal{
    public:
    void b(){
-     Animal::heartRate(30);
+     Animal::heartRate(30); //Super keyword
    }
 
    // overriding function :- with readable override keyword
@@ -79,15 +84,12 @@ int main()
 
    h1.heartRate(200); // accessing overriden function
    h1.Animal::heartRate(40); // Accessing member of parent form child Object
-   h1.print();
-   h1.Animal::print();
+   h1.print(); // accessing overriden function [NOT READABLE OVERRIDEN FUCNTION]
+   h1.Animal::print();  // Accessing member of parent form child Object
 
    // human2 h;
    // cout<<h.e<<"\n";
    // h.heartRate2();
-
-
-
 
    // h3.heartRate(30);
 
